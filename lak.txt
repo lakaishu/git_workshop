@@ -1,0 +1,15 @@
+git init
+	initialises new repositary(also called cd - directory)
+git add -A
+	moves code from working dir to stating area -A basiaclly means everything
+git commit -m "String" - Commit message - usually in present
+	moves from stage to repository (new version)
+git log --oneline
+	to show comits
+git status
+	changes to commit or nothing to commit
+git diff
+	shows the differences between the staging area and working directory
+git clone url
+	clones from git hub
+example
